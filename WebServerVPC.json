@@ -816,7 +816,7 @@
           "Fn::GetAZs": ""
         },
         "Cooldown": "300",
-        "DesiredCapacity": "3",
+        "DesiredCapacity": "1",
         "HealthCheckGracePeriod": "120",
         "HealthCheckType": "ELB",
         "MaxSize": "1",
